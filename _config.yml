@@ -31,7 +31,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate-v2
-  - jekyll-tagging
   - jekyll-archives
   
 # Pagination Settings

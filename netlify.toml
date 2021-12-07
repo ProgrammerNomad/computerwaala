@@ -1,0 +1,7 @@
+[context.production.environment]
+  HUGO_VERSION = "0.82.1"
+
+[[headers]]
+    for = "/*.png"
+    [headers.values]
+        Access-Control-Allow-Origin = "*"
